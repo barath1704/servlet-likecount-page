@@ -1,0 +1,11 @@
+<web-app>
+    <servlet>
+        <servlet-name>Parameter</servlet-name>
+        <servlet-class>sessionclass</servlet-class>
+        
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Parameter</servlet-name>
+        <url-pattern>/demo</url-pattern>
+    </servlet-mapping>
+</web-app>
